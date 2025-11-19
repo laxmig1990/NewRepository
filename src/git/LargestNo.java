@@ -15,7 +15,8 @@ public class LargestNo {
         }
         System.out.println("Largest no is " +largest);
 
-        driver.close();
+      
     }
 }
+
 
