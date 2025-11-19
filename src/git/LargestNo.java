@@ -14,5 +14,8 @@ public class LargestNo {
             largest = arr[i];
         }
         System.out.println("Largest no is " +largest);
+
+        driver.close();
     }
 }
+
